@@ -73,9 +73,15 @@ If an error occurs during the aggregation, the function should return a JSON res
 // Aggregation Pipeline : Projection Stage
 const getProjectedData = async (req, res) => {
     try {
-        const agg = [
-            //Write your Aggregation Pipeline here
-        ]
+        const agg = [{
+            $project: {
+                _id: 0,  // Exclude the _id from the projection
+                name: 1,
+                tags: 1,
+                noOfSales: '$metrics.totalQuantitySold',
+                averageRating: '$metrics.avgRating'
+            }
+        }]
         const aggregatedData = await Product.aggregate(agg);
         const count = aggregatedData.length;
         res.status(200).json({
@@ -85,6 +91,7 @@ const getProjectedData = async (req, res) => {
                 data: aggregatedData
             },
         });
+        // req.send("True")
     } catch (err) {
         res.status(400).json({
             message: "Could Not Fetch Products",
@@ -98,7 +105,7 @@ const getProjectedData = async (req, res) => {
 /*
 Implement an aggregation pipeline to get the number of times each tag occurs, and also find the number of distinct tags.
 Instructions:
-The function should use the aggregate pipeline with multiple stages to group the products by tags, count the number of products in each group, and sort the result by the count in descending order.
+The function should use the aggregate pipeline with multiple stages to group the products by tags, count the number of products in each group, and sort the result by the count in descending(-1) order.
 The aggregated data should be returned in a JSON response with a status code of 200 and the following format:
 {
     "status": "success",
@@ -124,7 +131,18 @@ If an error occurs during the aggregation, the function should return a JSON res
 const getTagCount = async (req, res) => {
     try {
         const agg = [
-            //Write your Aggregation Pipeline here
+            {
+                $unwind: '$tags'
+            },
+            {
+                $group: {
+                    _id: '$tags',
+                    count: { $sum: 1 }
+                }
+            },
+            {
+                $sort: { count: -1 }
+            }
         ]
         const aggregatedData = await Product.aggregate(agg);
         const count = aggregatedData.length;
