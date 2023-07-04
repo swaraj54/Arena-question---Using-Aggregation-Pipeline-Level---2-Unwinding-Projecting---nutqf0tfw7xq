@@ -1,0 +1,626 @@
+[
+    {
+      "name": "S690pro",
+      "price": 199.99,
+      "tags": ["smart", "connected", "wireless", "sleek", "user-friendly"],
+      "metrics": {
+        "totalWishlists": 120,
+        "totalQuantitySold": 750,
+        "totalReviews": 25,
+        "avgRating": 4.6
+      }
+    },
+    {
+      "name": "SmartConnect",
+      "price": 149.99,
+      "tags": ["innovative", "connected", "ergonomic", "portable"],
+      "metrics": {
+        "totalWishlists": 80,
+        "totalQuantitySold": 500,
+        "totalReviews": 20,
+        "avgRating": 4.8
+      }
+    },
+    {
+      "name": "WirelessPro",
+      "price": 259.99,
+      "tags": [
+        "powerful",
+        "sleek",
+        "high-performance",
+        "user-friendly",
+        "intuitive"
+      ],
+      "metrics": {
+        "totalWishlists": 200,
+        "totalQuantitySold": 1000,
+        "totalReviews": 50,
+        "avgRating": 4.5
+      }
+    },
+    {
+      "name": "ErgoConnect",
+      "price": 99.99,
+      "tags": ["versatile", "secure", "efficient", "reliable", "cutting-edge"],
+      "metrics": {
+        "totalWishlists": 60,
+        "totalQuantitySold": 300,
+        "totalReviews": 10,
+        "avgRating": 4.2
+      }
+    },
+    {
+      "name": "MultiPro",
+      "price": 299.99,
+      "tags": ["multifunctional", "compatible", "future-proof", "sleek"],
+      "metrics": {
+        "totalWishlists": 150,
+        "totalQuantitySold": 800,
+        "totalReviews": 30,
+        "avgRating": 4.7
+      }
+    },
+    {
+      "name": "EcoConnect",
+      "price": 119.99,
+      "tags": ["eco-friendly", "wireless", "innovative", "user-friendly"],
+      "metrics": {
+        "totalWishlists": 100,
+        "totalQuantitySold": 500,
+        "totalReviews": 15,
+        "avgRating": 4.4
+      }
+    },
+    {
+      "name": "SecurePro",
+      "price": 199.99,
+      "tags": ["secure", "user-friendly", "innovative", "sleek"],
+      "metrics": {
+        "totalWishlists": 90,
+        "totalQuantitySold": 400,
+        "totalReviews": 20,
+        "avgRating": 4.3
+      }
+    },
+    {
+      "name": "InnoConnect",
+      "price": 139.99,
+      "tags": ["innovative", "connected", "versatile", "reliable"],
+      "metrics": {
+        "totalWishlists": 70,
+        "totalQuantitySold": 350,
+        "totalReviews": 15,
+        "avgRating": 4.1
+      }
+    },
+    {
+      "name": "ProConnectX",
+      "price": 299.99,
+      "tags": [
+        "smart",
+        "powerful",
+        "connected",
+        "reliable",
+        "cutting-edge",
+        "sleek"
+      ],
+      "metrics": {
+        "totalWishlists": 180,
+        "totalQuantitySold": 950,
+        "totalReviews": 40,
+        "avgRating": 4.8
+      }
+    },
+    {
+      "name": "SmartProX",
+      "price": 249.99,
+      "tags": ["smart", "innovative", "efficient", "portable"],
+      "metrics": {
+        "totalWishlists": 120,
+        "totalQuantitySold": 650,
+        "totalReviews": 35,
+        "avgRating": 4.7
+      }
+    },
+    {
+      "name": "EcoConnectX",
+      "price": 129.99,
+      "tags": [
+        "eco-friendly",
+        "wireless",
+        "innovative",
+        "user-friendly",
+        "sleek"
+      ],
+      "metrics": {
+        "totalWishlists": 110,
+        "totalQuantitySold": 600,
+        "totalReviews": 20,
+        "avgRating": 4.5
+      }
+    },
+    {
+      "name": "InnoPro",
+      "price": 179.99,
+      "tags": ["innovative", "powerful", "versatile", "reliable"],
+      "metrics": {
+        "totalWishlists": 80,
+        "totalQuantitySold": 400,
+        "totalReviews": 10,
+        "avgRating": 4.2
+      }
+    },
+    {
+      "name": "WirelessX",
+      "price": 279.99,
+      "tags": ["wireless", "high-performance", "intuitive", "compatible"],
+      "metrics": {
+        "totalWishlists": 190,
+        "totalQuantitySold": 900,
+        "totalReviews": 30,
+        "avgRating": 4.6
+      }
+    },
+    {
+      "name": "ProErgo",
+      "price": 199.99,
+      "tags": [
+        "ergonomic",
+        "sleek",
+        "user-friendly",
+        "efficient",
+        "future-proof"
+      ],
+      "metrics": {
+        "totalWishlists": 100,
+        "totalQuantitySold": 550,
+        "totalReviews": 25,
+        "avgRating": 4.4
+      }
+    },
+    {
+      "name": "ConnectProX",
+      "price": 219.99,
+      "tags": ["connected", "powerful", "versatile", "reliable"],
+      "metrics": {
+        "totalWishlists": 90,
+        "totalQuantitySold": 450,
+        "totalReviews": 15,
+        "avgRating": 4.1
+      }
+    },
+    {
+      "name": "EcoPro",
+      "price": 149.99,
+      "tags": ["eco-friendly", "innovative", "efficient", "user-friendly"],
+      "metrics": {
+        "totalWishlists": 70,
+        "totalQuantitySold": 350,
+        "totalReviews": 20,
+        "avgRating": 4.3
+      }
+    },
+    {
+      "name": "InnoConnectX",
+      "price": 239.99,
+      "tags": [
+        "innovative",
+        "connected",
+        "versatile",
+        "high-performance",
+        "cutting-edge"
+      ],
+      "metrics": {
+        "totalWishlists": 120,
+        "totalQuantitySold": 650,
+        "totalReviews": 25,
+        "avgRating": 4.4
+      }
+    },
+    {
+      "name": "PowerProX",
+      "price": 289.99,
+      "tags": ["powerful", "efficient", "reliable", "sleek"],
+      "metrics": {
+        "totalWishlists": 150,
+        "totalQuantitySold": 800,
+        "totalReviews": 30,
+        "avgRating": 4.5
+      }
+    },
+    {
+      "name": "WirelessEco",
+      "price": 139.99,
+      "tags": ["wireless", "eco-friendly", "portable", "efficient"],
+      "metrics": {
+        "totalWishlists": 90,
+        "totalQuantitySold": 500,
+        "totalReviews": 15,
+        "avgRating": 4.2
+      }
+    },
+    {
+      "name": "SleekPro",
+      "price": 199.99,
+      "tags": ["sleek", "user-friendly", "innovative", "high-performance"],
+      "metrics": {
+        "totalWishlists": 100,
+        "totalQuantitySold": 550,
+        "totalReviews": 20,
+        "avgRating": 4.6
+      }
+    },
+    {
+      "name": "EfficientX",
+      "price": 179.99,
+      "tags": ["efficient", "smart", "versatile", "reliable"],
+      "metrics": {
+        "totalWishlists": 80,
+        "totalQuantitySold": 400,
+        "totalReviews": 10,
+        "avgRating": 4.3
+      }
+    },
+    {
+      "name": "FuturePro",
+      "price": 219.99,
+      "tags": ["future-proof", "smart", "connected", "cutting-edge"],
+      "metrics": {
+        "totalWishlists": 110,
+        "totalQuantitySold": 600,
+        "totalReviews": 25,
+        "avgRating": 4.7
+      }
+    },
+    {
+      "name": "PortableX",
+      "price": 129.99,
+      "tags": ["portable", "wireless", "user-friendly"],
+      "metrics": {
+        "totalWishlists": 70,
+        "totalQuantitySold": 350,
+        "totalReviews": 15,
+        "avgRating": 4.0
+      }
+    },
+    {
+      "name": "ConnectEco",
+      "price": 149.99,
+      "tags": ["connected", "eco-friendly", "user-friendly", "innovative"],
+      "metrics": {
+        "totalWishlists": 90,
+        "totalQuantitySold": 500,
+        "totalReviews": 20,
+        "avgRating": 4.3
+      }
+    },
+    {
+      "name": "S680pro",
+      "price": 199.99,
+      "tags": ["high-performance", "reliable", "future-proof", "multifunctional"],
+      "metrics": {
+        "totalWishlists": 120,
+        "totalQuantitySold": 750,
+        "totalReviews": 25,
+        "avgRating": 4.6
+      }
+    },
+    {
+      "name": "S780",
+      "price": 299.99,
+      "tags": [
+        "smart",
+        "connected",
+        "efficient",
+        "sleek",
+        "user-friendly",
+        "intuitive",
+        "versatile",
+        "secure"
+      ],
+      "metrics": {
+        "totalWishlists": 210,
+        "totalQuantitySold": 950,
+        "totalReviews": 40,
+        "avgRating": 4.8
+      }
+    },
+    {
+      "name": "X310pro",
+      "price": 149.99,
+      "tags": [
+        "smart",
+        "connected",
+        "portable",
+        "powerful",
+        "reliable",
+        "multifunctional"
+      ],
+      "metrics": {
+        "totalWishlists": 80,
+        "totalQuantitySold": 550,
+        "totalReviews": 15,
+        "avgRating": 4.4
+      }
+    },
+    {
+      "name": "Z550",
+      "price": 399.99,
+      "tags": [
+        "smart",
+        "innovative",
+        "wireless",
+        "efficient",
+        "sleek",
+        "intuitive",
+        "cutting-edge"
+      ],
+      "metrics": {
+        "totalWishlists": 300,
+        "totalQuantitySold": 1250,
+        "totalReviews": 60,
+        "avgRating": 4.9
+      }
+    },
+    {
+      "name": "Y650pro",
+      "price": 229.99,
+      "tags": [
+        "innovative",
+        "connected",
+        "efficient",
+        "sleek",
+        "user-friendly",
+        "versatile",
+        "compatible"
+      ],
+      "metrics": {
+        "totalWishlists": 180,
+        "totalQuantitySold": 800,
+        "totalReviews": 30,
+        "avgRating": 4.7
+      }
+    },
+    {
+      "name": "T990",
+      "price": 449.99,
+      "tags": [
+        "smart",
+        "innovative",
+        "wireless",
+        "powerful",
+        "sleek",
+        "high-performance",
+        "eco-friendly"
+      ],
+      "metrics": {
+        "totalWishlists": 350,
+        "totalQuantitySold": 1500,
+        "totalReviews": 75,
+        "avgRating": 4.9
+      }
+    },
+    {
+      "name": "G410pro",
+      "price": 189.99,
+      "tags": ["connected","reliable","user-friendly","intuitive","versatile"],
+      "metrics": {
+        "totalWishlists": 100,
+        "totalQuantitySold": 600,
+        "totalReviews": 20,
+        "avgRating": 4.5
+      }
+    },
+    {
+      "name": "S790pro",
+      "price": 199.99,
+      "tags": ["versatile", "connected", "sleek", "user-friendly"],
+      "metrics": {
+        "totalWishlists": 120,
+        "totalQuantitySold": 750,
+        "totalReviews": 25,
+        "avgRating": 4.6
+      }
+    },
+    {
+      "name": "A12X",
+      "price": 299.99,
+      "tags": [
+        "smart",
+        "innovative",
+        "connected",
+        "wireless",
+        "ergonomic",
+        "portable",
+        "powerful"
+      ],
+      "metrics": {
+        "totalWishlists": 80,
+        "totalQuantitySold": 500,
+        "totalReviews": 20,
+        "avgRating": 4.8
+      }
+    },
+    {
+      "name": "TechPro 3.0",
+      "price": 149.99,
+      "tags": ["smart", "sleek", "high-performance", "user-friendly"],
+      "metrics": {
+        "totalWishlists": 150,
+        "totalQuantitySold": 1000,
+        "totalReviews": 30,
+        "avgRating": 4.5
+      }
+    },
+    {
+      "name": "EcoConnect",
+      "price": 99.99,
+      "tags": ["smart", "innovative", "connected", "wireless", "eco-friendly"],
+      "metrics": {
+        "totalWishlists": 90,
+        "totalQuantitySold": 800,
+        "totalReviews": 15,
+        "avgRating": 4.2
+      }
+    },
+    {
+      "name": "ProxiMate",
+      "price": 249.99,
+      "tags": ["smart", "versatile", "secure", "efficient", "cutting-edge"],
+      "metrics": {
+        "totalWishlists": 70,
+        "totalQuantitySold": 600,
+        "totalReviews": 10,
+        "avgRating": 4.9
+      }
+    },
+    {
+      "name": "WirelessPro",
+      "price": 179.99,
+      "tags": ["smart", "connected", "wireless", "efficient", "reliable"],
+      "metrics": {
+        "totalWishlists": 110,
+        "totalQuantitySold": 900,
+        "totalReviews": 18,
+        "avgRating": 4.3
+      }
+    },
+    {
+      "name": "iConnect",
+      "price": 199.99,
+      "tags": [
+        "smart",
+        "innovative",
+        "connected",
+        "user-friendly",
+        "efficient",
+        "reliable"
+      ],
+      "metrics": {
+        "totalWishlists": 130,
+        "totalQuantitySold": 950,
+        "totalReviews": 22,
+        "avgRating": 4.7
+      }
+    },
+    {
+      "name": "UltraX",
+      "price": 349.99,
+      "tags": [
+        "smart",
+        "innovative",
+        "connected",
+        "wireless",
+        "high-performance",
+        "user-friendly"
+      ],
+      "metrics": {
+        "totalWishlists": 100,
+        "totalQuantitySold": 700,
+        "totalReviews": 28,
+        "avgRating": 4.4
+      }
+    },
+    {
+      "name": "AirPlus",
+      "price": 149.99,
+      "tags": ["smart", "connected", "wireless", "sleek", "user-friendly"],
+      "metrics": {
+        "totalWishlists": 80,
+        "totalQuantitySold": 600,
+        "totalReviews": 15,
+        "avgRating": 4.5
+      }
+    },
+    {
+      "name": "SoundPro",
+      "price": 199.99,
+      "tags": [
+        "smart",
+        "innovative",
+        "connected",
+        "wireless",
+        "ergonomic",
+        "cutting-edge"
+      ],
+      "metrics": {
+        "totalWishlists": 100,
+        "totalQuantitySold": 800,
+        "totalReviews": 20,
+        "avgRating": 4.8
+      }
+    },
+    {
+      "name": "SmartDesk",
+      "price": 599.99,
+      "tags": ["smart", "innovative", "ergonomic", "user-friendly", "versatile"],
+      "metrics": {
+        "totalWishlists": 70,
+        "totalQuantitySold": 450,
+        "totalReviews": 10,
+        "avgRating": 4.7
+      }
+    },
+    {
+      "name": "SmartPro",
+      "price": 299.99,
+      "tags": ["smart", "innovative", "connected", "wireless", "reliable"],
+      "metrics": {
+        "totalWishlists": 90,
+        "totalQuantitySold": 700,
+        "totalReviews": 18,
+        "avgRating": 4.3
+      }
+    },
+    {
+      "name": "EcoSmart",
+      "price": 129.99,
+      "tags": ["smart", "innovative", "connected", "eco-friendly"],
+      "metrics": {
+        "totalWishlists": 110,
+        "totalQuantitySold": 900,
+        "totalReviews": 25,
+        "avgRating": 4.2
+      }
+    },
+    {
+      "name": "FuturePro",
+      "price": 449.99,
+      "tags": [
+        "smart",
+        "innovative",
+        "connected",
+        "wireless",
+        "high-performance",
+        "future-proof"
+      ],
+      "metrics": {
+        "totalWishlists": 120,
+        "totalQuantitySold": 750,
+        "totalReviews": 22,
+        "avgRating": 4.6
+      }
+    },
+    {
+      "name": "SecureTech",
+      "price": 199.99,
+      "tags": ["smart", "innovative", "connected", "wireless", "secure"],
+      "metrics": {
+        "totalWishlists": 100,
+        "totalQuantitySold": 600,
+        "totalReviews": 20,
+        "avgRating": 4.8
+      }
+    },
+    {
+      "name": "ErgoPro",
+      "price": 179.99,
+      "tags": ["smart", "innovative", "connected", "ergonomic", "user-friendly"],
+      "metrics": {
+        "totalWishlists": 80,
+        "totalQuantitySold": 500,
+        "totalReviews": 15,
+        "avgRating": 4.5
+      }
+    }
+  ]
